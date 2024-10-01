@@ -1,6 +1,6 @@
 # link sender
 
-## Instalation
+## Installation
 
 `npm install`
 
